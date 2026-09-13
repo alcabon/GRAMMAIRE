@@ -101,5 +101,68 @@ Pour valider cette règle, préférez-vous :
 * Faire un mini-quiz de 3 phrases avec ces pièges ?
 * Tester l'accord sur des verbes spécifiques que vous utilisez souvent ?
 
+---
+
+# Quiz : Accord du participe passé (COD, COI et pronominaux)
+
+Testez vos connaissances sur les règles complexes d'accord des participes passés en français. Ce quiz comprend 5 questions avec leurs corrections détaillées.
+
+---
+
+## 📝 Questions
+
+### 1. La robe que Marie a _________ pour la fête est magnifique.
+- [ ] A) acheté
+- [ ] B) achetées
+- [ ] C) achetée
+- [ ] D) achetés
+
+### 2. Les enfants à qui elle a _________ ne veulent pas écouter.
+- [ ] A) parlés
+- [ ] B) parlée
+- [ ] C) parlées
+- [ ] D) parlé
+
+### 3. Elle s'est _________ les mains avant de manger.
+- [ ] A) lavé
+- [ ] B) lavée
+- [ ] C) lavées
+- [ ] D) lavés
+
+### 4. Des cerises, Paul en a _________ tout l'été.
+- [ ] A) mangées
+- [ ] B) mangé
+- [ ] C) mangée
+- [ ] D) mangés
+
+### 5. Ces femmes se sont _________ de leur voyage avec émotion.
+- [ ] A) souvenu
+- [ ] B) souvenue
+- [ ] C) souvenus
+- [ ] D) souvenues
+
+---
+
+## 🔑 Correction et Explications
+
+### Question 1
+* **Bonne réponse : C) achetée**
+* **Explication :** Le COD (*"que"* mis pour *"la robe"*, féminin singulier) est placé **avant** l'auxiliaire *avoir*. Le participe passé s'accorde donc en genre et en nombre avec lui.
+
+### Question 2
+* **Bonne réponse : D) parlé**
+* **Explication :** Le verbe *parler* est transitif indirect (*parler à quelqu'un*). Le pronom *"à qui"* introduit un **COI**, il n'y a donc aucun accord possible.
+
+### Question 3
+* **Bonne réponse : A) lavé**
+* **Explication :** Pour ce verbe pronominal, le COD (*"les mains"*) est placé **après** le verbe. Le pronom réfléchi *"s'"* devient donc un COI (*elle a lavé les mains à qui ? à elle-même*), bloquant l'accord.
+
+### Question 4
+* **Bonne réponse : B) mangé**
+* **Explication :** Le pronom adverbial **"en"** empêche l'accord du participe passé avec l'auxiliaire *avoir*, le mot reste strictement invariable.
+
+### Question 5
+* **Bonne réponse : D) souvenues**
+* **Explication :** *Se souvenir* est un verbe **essentiellement pronominal** (il n'existe pas sans son pronom). Son participe passé s'accorde donc obligatoirement avec le sujet (*"ces femmes"*, féminin pluriel).
 
 
