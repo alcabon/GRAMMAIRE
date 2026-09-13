@@ -1,4 +1,4 @@
-# ORTHOGRAPHE
+# GRAMMAIRE
 
 # L'accord des participes passés
 
@@ -54,5 +54,52 @@ Exemples :
 
 * Elle a été malade. (Aucun accord).
 * Ils ont été courageux. (Aucun accord).
+
+---
+
+## 3. L'accord du participe passé avec les compléments d'objet (COD et COI)
+
+L'accord du participe passé avec les compléments d'objet (COD et COI) concerne essentiellement l'auxiliaire avoir et les verbes pronominaux (qui se conjuguent avec être mais suivent les règles de avoir).
+Voici les règles incontournables et leurs pièges pour ne plus faire d'erreur :
+
+------------------------------
+## 1. Avec l'auxiliaire AVOIR : Le grand classique
+La règle d'or : On cherche le COD en posant la question "Quoi ?" ou "Qui ?" après le verbe.
+
+* ❌ Pas d'accord si le COD est placé après le verbe ou s'il n'y a pas de COD.
+* 0️⃣ Pas d'accord avec un COI (réponse à la question "À qui ?" ou "À quoi ?").
+* Accord en genre et en nombre si le COD est placé avant le verbe.
+
+| Emplacement du COD | Exemple | Règle d'accord |
+|---|---|---|
+| COD après | **J'ai acheté les fleurs.** (J'ai acheté quoi ? les fleurs) | Invariable (acheté) |
+| COD avant | **Les fleurs que j'ai achetées.** (Le COD est que, mis pour les fleurs) | Accord avec le COD (achetées) |
+| Avec un COI | **Je leur ai parlé**. (J'ai parlé à qui ? à eux COI) | Invariable (parlé) |
+
+------------------------------
+## 2. Le cas des verbes pronominaux (se...) : Le vrai piège
+Les verbes pronominaux utilisent l'auxiliaire être, mais pour l'accord, ils fonctionnent comme s'ils utilisahients l'auxiliaire avoir. Le pronom (se, s', me, te...) peut être COD ou COI.
+
+* Le pronom est COD : On accorde avec le pronom (donc avec le sujet).
+* **Elle s'est lavée**. (Elle a lavé qui ? elle-même ➡️ s' est COD ➡️ Accord).
+* ❌ Le COD est placé après : Pas d'accord.
+* **Elle s'est lavé les mains.** (Elle a lavé quoi ? les mains, placé après ➡️ Invariable).
+* 0️⃣ Le pronom est COI : Pas d'accord.
+* **Ils se sont parlé.** (Ils ont parlé à qui ? à eux-mêmes ➡️ se est COI ➡️ Invariable).
+   * **Ils se sont téléphoné.** (Téléphoner à quelqu'un ➡️ se est COI ➡️ Invariable).
+
+------------------------------
+## 3. Les pronoms spécifiques qui pièges (en, l', le)
+
+* Le pronom "en" : Le participe passé reste généralement invariable, même si "en" joue le rôle d'un COD.
+* **Des fleurs, j'en ai cueilli.** (Invariable).
+* Le pronom neutre "l'" : Si l' renvoie à une idée ou une proposition entière (et non à un nom), le participe reste au masculin singulier.
+* **Cette crise est plus grave que je ne l'avais pensé.** (l' = que la crise soit si grave ➡️ Invariable).
+
+Pour valider cette règle, préférez-vous :
+
+* Faire un mini-quiz de 3 phrases avec ces pièges ?
+* Tester l'accord sur des verbes spécifiques que vous utilisez souvent ?
+
 
 
