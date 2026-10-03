@@ -55,6 +55,26 @@ Exemples :
 * Elle a été malade. (Aucun accord).
 * Ils ont été courageux. (Aucun accord).
 
+------------------------------
+## Les verbes d'état (équivalents du verbe être)
+
+Certains verbes dits **attributifs** ou **copules** expriment, comme être, un état ou une transformation du sujet : *sembler, paraître, devenir, rester, demeurer, avoir l'air, passer pour, se révéler, s'avérer...* Ils sont suivis d'un **attribut du sujet** (adjectif ou nom), qui s'accorde toujours avec le sujet. Mais leur participe passé dépend de l'auxiliaire utilisé.
+
+| Verbe | Auxiliaire | Participe passé | Exemple |
+|---|---|---|---|
+| sembler | avoir | Invariable (*semblé*) | **Elle a semblé fatiguée.** |
+| paraître | avoir | Invariable (*paru*) | **Ils ont paru contents.** |
+| avoir l'air | avoir | Invariable (*eu*) | **Elle a eu l'air surprise.** |
+| passer pour | avoir | Invariable (*passé*) | **Elles ont passé pour des expertes.** |
+| devenir / redevenir | être | Accord avec le sujet | **Elle est devenue médecin.** |
+| rester | être | Accord avec le sujet | **Ils sont restés calmes.** |
+| demeurer (= rester) | être | Accord avec le sujet | **Elles sont demeurées silencieuses.** |
+| s'avérer, se révéler, se montrer | être (pronominal) | Accord avec le sujet | **Elle s'est révélée très efficace.** |
+
+* À retenir : **sembler** et **paraître** se conjuguent avec **avoir**, donc leur participe ne s'accorde pas avec le sujet. C'est l'attribut qui porte l'accord (*fatiguée*, *contents*).
+* **Devenir** et **rester** se conjuguent avec **être** : le participe s'accorde avec le sujet, comme pour tout verbe conjugué avec être.
+* Attention : **demeurer** prend **avoir** quand il signifie « habiter » (*Ils ont demeuré à Paris*), et **être** quand il signifie « rester » (*Ils sont demeurés calmes*).
+
 ---
 
 ## 3. L'accord du participe passé avec les compléments d'objet (COD et COI)
