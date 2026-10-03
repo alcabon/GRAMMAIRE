@@ -123,6 +123,59 @@ Pour valider cette règle, préférez-vous :
 
 ---
 
+# L'accord des adjectifs : ceux qui s'accordent et ceux qui restent invariables
+
+Règle générale : l'adjectif s'accorde en genre et en nombre avec le nom qu'il qualifie (*des pommes rouges*, *une robe verte*). Mais plusieurs cas font exception.
+
+------------------------------
+## 1. Les adjectifs de couleur
+
+| Cas | Règle | Exemples |
+|---|---|---|
+| Adjectif de couleur simple | S'accorde | **des pommes rouges**, **des murs blancs**, **des yeux bleus** |
+| Nom employé comme couleur | Invariable | **des yeux marron**, **des robes orange**, **des rubans cerise**, **des gants crème** |
+| Exceptions : *rose, mauve, pourpre, écarlate, fauve, vermeil* | S'accordent (anciens noms devenus adjectifs) | **des joues roses**, **des robes mauves** |
+| Couleur composée (couleur + nom, ou nuance : *clair, foncé, vif...*) | Invariable | **des pommes rouge sang**, **des yeux bleu ciel**, **des feuilles vert foncé**, **des chemises bleu clair** |
+| Deux couleurs mélangées dans un seul adjectif | Invariable | **des yeux bleu-vert**, **des cheveux gris-bleu** |
+
+* Pourquoi « rouge sang » ne s'accorde pas : l'expression signifie « rouge comme le sang ». Le mot *sang* est un nom et la couleur est sous-entendue, donc l'ensemble reste invariable.
+
+------------------------------
+## 2. Les adjectifs qui s'accordent selon leur place
+
+| Adjectif | Devant le nom | Après le nom |
+|---|---|---|
+| **demi** | Invariable, avec un trait d'union : **une demi-heure** | S'accorde en genre seulement : **une heure et demie** |
+| **nu** | Invariable, avec un trait d'union : **nu-pieds**, **nu-tête** | S'accorde : **pieds nus**, **tête nue** |
+| **feu** (défunt) | Invariable : **feu la reine** | S'accorde : **la feue reine** |
+| **ci-joint, ci-inclus** | Invariable : **ci-joint les documents** | S'accordent : **les documents ci-joints** |
+| **excepté, y compris, vu, passé** | Invariables devant le nom : **excepté les enfants**, **passé la gare** | S'accordent après : **les enfants exceptés** |
+
+------------------------------
+## 3. Les adjectifs employés comme adverbes
+
+Quand l'adjectif modifie un verbe et non un nom, il est **invariable**.
+
+* **Elles parlent fort.** / **Ces fleurs sentent bon.**
+* **Ces sacs coûtent cher.** / **Elles travaillent dur.**
+* **Ils ont voté blanc.** / **Elles chantent faux.**
+
+------------------------------
+## 4. Autres cas à connaître
+
+* Les expressions avec un nom invariable : **des places bon marché**, **des prix record**, **des cas limite**.
+* Les adjectifs composés : le dernier élément s'accorde, et le premier en *-o* reste invariable : **des filles sourdes-muettes**, **des accords franco-allemands**.
+
+------------------------------
+## À retenir
+
+* **Adjectif simple** (rouge, vert, bleu) : il s'accorde.
+* **Nom employé comme adjectif** (marron, orange, cerise) : invariable.
+* **Adjectif composé de couleur** (rouge sang, bleu ciel) : invariable.
+* **Adjectif employé comme adverbe** (parler fort, coûter cher) : invariable.
+
+---
+
 # Quiz : Accord du participe passé (COD, COI et pronominaux)
 
 Testez vos connaissances sur les règles complexes d'accord des participes passés en français. Ce quiz comprend 5 questions avec leurs corrections détaillées.
